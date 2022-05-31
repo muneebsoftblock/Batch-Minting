@@ -1,0 +1,17 @@
+{
+  "name": "js-code-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "s": "yarn start",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "web3": "^1.7.3"
+  }
+}
